@@ -57,10 +57,11 @@ The project's main script, `main.py`, takes an image as input, detects faces, an
 Follow me for more inspiration:
 
 
-- [![Sololearn](https://blob.sololearn.com/avatars/sololearn.png)](https://www.sololearn.com/profile/26555651) Follow me on Sololearn
+- <a href="https://www.sololearn.com/profile/26555651" target="_blank"><img src="https://blob.sololearn.com/avatars/sololearn.png" alt="Sololearn" width="18" height="18"> Follow me on Sololearn</a>
 - <a href="https://github.com/MAS-RA/paint-web-app" target="_blank"><img src="https://github.com/fluidicon.png" alt="GitHub" width="18" height="18"> Check out the project on GitHub</a>
 - <a href="https://www.instagram.com/alisaeed.thabt/" target="_blank"><img src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" alt="Instagram" width="18" height="18"> Follow me on Instagram</a>
-- [![Buy Me a Coffee](https://image-link-to-coffee-icon)](https://www.buymeacoffee.com/AliSaeedThabt) Buy Me a Coffee
+- <a href="https://www.buymeacoffee.com/AliSaeedThabt" target="_blank"><img src="https://image-link-to-coffee-icon" alt="Buy Me a Coffee" width="18" height="18"> Buy Me a Coffee</a>
+
 
 ## Demo
 
