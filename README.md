@@ -2,14 +2,14 @@
 
 AI-Face-Detection is a Python project that utilizes the power of artificial intelligence to detect and analyze faces within images. It employs the OpenCV library and pre-trained deep learning models to identify both gender and approximate age range of detected faces.
 
-![Sample Result](sample_result.jpg)
+![Sample Result](https://developer.bmde-labs.com/storage/article_images/dMk6gvY8IpyFZAQNYaOMiecCXQK5DiwnfzltPIsc.png)
 
    (```bash)
    $. python main.py --image input/3.jpg
+   (```)
       Gender: Male
       Age: 60-100 years
-   (```)
-
+      
 ## Features
 
 - Utilizes OpenCV for efficient image processing and computer vision tasks.
