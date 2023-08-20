@@ -81,7 +81,7 @@ This project was inspired by the work of Mahesh Sawant.
 
 ---
 
-For updates and announcements, follow us on Twitter [@AIFaceDetect](https://twitter.com/AIFaceDetect). Join our Discord community [here](https://discord.gg/ai-face-detection) to connect with other developers and enthusiasts.
+For updates and announcements, follow me on Instagram [@Alisaeed.thabt](https://www.instagram.com/alisaeed.thabt/). 
 
 Let's make face detection smarter and more accurate with the power of AI! Your contributions are highly appreciated.
 EOT
