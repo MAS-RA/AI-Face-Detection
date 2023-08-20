@@ -56,7 +56,7 @@ The project's main script, `main.py`, takes an image as input, detects faces, an
 
 Follow me for more inspiration:
 
-- [![Sololearn](https://image-link-to-sololearn-icon)](https://www.sololearn.com/profile/26555651) Follow me on Sololearn
+- [![Sololearn](https://blob.sololearn.com/avatars/sololearn.png)](https://www.sololearn.com/profile/26555651) Follow me on Sololearn
 - [![Instagram](https://image-link-to-instagram-icon)](https://www.instagram.com/alisaeed.thabt/) Follow me on Instagram
 - [![GitHub](https://image-link-to-github-icon)](https://github.com/MAS-RA/paint-web-app) Check out the project on GitHub
 - [![Buy Me a Coffee](https://image-link-to-coffee-icon)](https://www.buymeacoffee.com/AliSaeedThabt) Buy Me a Coffee
