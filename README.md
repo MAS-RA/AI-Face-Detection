@@ -4,6 +4,12 @@ AI-Face-Detection is a Python project that utilizes the power of artificial inte
 
 ![Sample Result](sample_result.jpg)
 
+   (```bash)
+   $. python main.py --image input/3.jpg
+      Gender: Male
+      Age: 60-100 years
+   (```)
+
 ## Features
 
 - Utilizes OpenCV for efficient image processing and computer vision tasks.
