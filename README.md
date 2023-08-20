@@ -75,10 +75,6 @@ Contributions to AI-Face-Detection are welcome! Feel free to open issues, sugges
 
 This project is licensed under the [Your License] License. See the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-This project was inspired by the work of Mahesh Sawant.
-
 ---
 
 For updates and announcements, follow me on Instagram [@Alisaeed.thabt](https://www.instagram.com/alisaeed.thabt/). 
