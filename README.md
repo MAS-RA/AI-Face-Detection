@@ -39,13 +39,11 @@ Age: 60-100 years
    cd AI-Face-Detection
    ```
 
-3. Unzip the "Models.zip" folder in the same directory as `main.py`:
+3. Download the `Models.zip` file from Mega using the following link:
 
-   ```bash
-   unzip Models.zip -d .
-   ```
+   [Download Models.zip from Mega](https://mega.nz/file/DwdTxYQB#YuSENTebkWgtJSZcMcLtfSzB5GoSNKNZnSYAyB3miDk)
 
-   Now your directory structure should look like this:
+4. Extract the contents of the `Models.zip` file and place the `Models` folder in the same directory as `main.py`. Your directory structure should look like this:
 
    ```
    AI-Face-Detection/
@@ -63,21 +61,11 @@ Age: 60-100 years
    └── requirements.txt  # List of required libraries
    ```
 
-4. Install the required dependencies:
+5. Install the required dependencies:
 
    ```bash
    pip install -r requirements.txt
    ```
-
-5. Download the necessary model files from the following links and place them in the "Models" folder:
-
-   - [opencv_face_detector.pbtxt](model_links/opencv_face_detector.pbtxt)
-   - [opencv_face_detector_uint8.pb](model_links/opencv_face_detector_uint8.pb)
-   - [age_deploy.prototxt](model_links/age_deploy.prototxt)
-   - [age_net.caffemodel](model_links/age_net.caffemodel)
-   - [gender_deploy.prototxt](model_links/gender_deploy.prototxt)
-   - [gender_net.caffemodel](model_links/gender_net.caffemodel)
-   - [yolov3.weights](model_links/yolov3.weights)
 
 6. Run the main script with an image of your choice:
 
@@ -87,7 +75,7 @@ Age: 60-100 years
 
 ## Sample Output
 
-The project\'s main script, `main.py`, takes an image as input, detects faces, and provides information about the gender and approximate age of each detected face. The result is displayed in a window showing the original image with annotations.
+The project's main script, `main.py`, takes an image as input, detects faces, and provides information about the gender and approximate age of each detected face. The result is displayed in a window showing the original image with annotations.
 
 ## Social Links
 
@@ -109,11 +97,12 @@ Contributions to AI-Face-Detection are welcome! Feel free to open issues, sugges
 
 ## License
 
-This project is licensed under the  MIT license License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-For updates and announcements, follow me on Instagram [@Alisaeed.thabt](https://www.instagram.com/alisaeed.thabt/).
+For updates and announcements, follow me on Instagram [@Alisaeed.thabt](https://www.instagram.com/alis
 
-Let\'s make face detection smarter and more accurate with the power of AI! Your contributions are highly appreciated.
+aeed.thabt/).
 
+Let's make face detection smarter and more accurate with the power of AI! Your contributions are highly appreciated.
