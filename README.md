@@ -1,6 +1,3 @@
-Certainly! Below is the modified README code with comments in each field and added steps for unzipping the "Models.zip" folder:
-
-```markdown
 # AI-Face-Detection
 
 AI-Face-Detection is a Python project that utilizes the power of artificial intelligence to detect and analyze faces within images. It employs the OpenCV library and pre-trained deep learning models to identify both gender and approximate age range of detected faces.
@@ -96,10 +93,11 @@ The project\'s main script, `main.py`, takes an image as input, detects faces, a
 
 Follow me for more inspiration:
 
-- [Follow me on Sololearn](https://www.sololearn.com/profile/26555651)
-- [Check out the project on GitHub](https://github.com/MAS-RA/paint-web-app)
-- [Follow me on Instagram](https://www.instagram.com/alisaeed.thabt/)
-- [Buy Me a Coffee](https://www.buymeacoffee.com/AliSaeedThabt)
+- <a href="https://www.sololearn.com/profile/26555651" target="_blank"><img src="https://blob.sololearn.com/avatars/sololearn.png" alt="Sololearn" width="18" height="18"> Follow me on Sololearn</a>
+- <a href="https://github.com/MAS-RA/paint-web-app" target="_blank"><img src="https://github.com/fluidicon.png" alt="GitHub" width="18" height="18"> Check out the project on GitHub</a>
+- <a href="https://www.instagram.com/alisaeed.thabt/" target="_blank"><img src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" alt="Instagram" width="18" height="18"> Follow me on Instagram</a>
+- <a href="https://www.buymeacoffee.com/AliSaeedThabt" target="_blank"><img src="https://image-link-to-coffee-icon" alt="Buy Me a Coffee" width="18" height="18"> Buy Me a Coffee</a>
+
 
 ## Demo
 
