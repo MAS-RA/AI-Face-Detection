@@ -109,11 +109,11 @@ Contributions to AI-Face-Detection are welcome! Feel free to open issues, sugges
 
 ## License
 
-This project is licensed under the [Your License] License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the  MIT license License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
 For updates and announcements, follow me on Instagram [@Alisaeed.thabt](https://www.instagram.com/alisaeed.thabt/).
 
 Let\'s make face detection smarter and more accurate with the power of AI! Your contributions are highly appreciated.
-```
+
