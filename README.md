@@ -1,18 +1,27 @@
+Certainly! Below is the modified README code with comments in each field and added steps for unzipping the "Models.zip" folder:
+
+```markdown
 # AI-Face-Detection
 
 AI-Face-Detection is a Python project that utilizes the power of artificial intelligence to detect and analyze faces within images. It employs the OpenCV library and pre-trained deep learning models to identify both gender and approximate age range of detected faces.
 
 ![Sample Result](https://developer.bmde-labs.com/storage/article_images/dMk6gvY8IpyFZAQNYaOMiecCXQK5DiwnfzltPIsc.png)
 
-   (```bash)
-   $. python main.py --image input/3.jpg
-   (```)
+### Usage
 
-   
-   (```plaintext)
-      Gender: Male
-      Age: 60-100 years
-   (```)
+To run the face detection on an image, use the following command:
+
+```bash
+python main.py --image input/3.jpg
+```
+
+The output will display the gender and age range of detected faces:
+
+```plaintext
+Gender: Male
+Age: 60-100 years
+```
+
 ## Features
 
 - Utilizes OpenCV for efficient image processing and computer vision tasks.
@@ -23,17 +32,47 @@ AI-Face-Detection is a Python project that utilizes the power of artificial inte
 
 1. Clone the repository to your local machine:
 
-   (```bash)
-   git clone https://github.com/your-username/AI-Face-Detection.git
-   (```)
-s
-2. Install the required dependencies:
+   ```bash
+   git clone https://github.com/MAS-RA/AI-Face-Detection.git
+   ```
 
-   (```bash)
+2. Move into the project directory:
+
+   ```bash
+   cd AI-Face-Detection
+   ```
+
+3. Unzip the "Models.zip" folder in the same directory as `main.py`:
+
+   ```bash
+   unzip Models.zip -d .
+   ```
+
+   Now your directory structure should look like this:
+
+   ```
+   AI-Face-Detection/
+   ├── input/        # Repository for input images
+   ├── Models/       # Houses pre-trained model files
+   │   ├── age_deploy.prototxt
+   │   ├── age_net.caffemodel
+   │   ├── gender_deploy.prototxt
+   │   ├── gender_net.caffemodel
+   │   ├── opencv_face_detector.pbtxt
+   │   ├── opencv_face_detector_uint8.pb
+   │   └── yolov3.weights
+   ├── main.py       # Core script for face detection operations
+   ├── README.md     # This comprehensive guide
+   └── requirements.txt  # List of required libraries
+   ```
+
+4. Install the required dependencies:
+
+   ```bash
    pip install -r requirements.txt
-   (```)
+   ```
 
-3. Download the necessary model files from the following links and place them in the project directory:
+5. Download the necessary model files from the following links and place them in the "Models" folder:
 
    - [opencv_face_detector.pbtxt](model_links/opencv_face_detector.pbtxt)
    - [opencv_face_detector_uint8.pb](model_links/opencv_face_detector_uint8.pb)
@@ -41,27 +80,26 @@ s
    - [age_net.caffemodel](model_links/age_net.caffemodel)
    - [gender_deploy.prototxt](model_links/gender_deploy.prototxt)
    - [gender_net.caffemodel](model_links/gender_net.caffemodel)
+   - [yolov3.weights](model_links/yolov3.weights)
 
-4. Run the main script with an image of your choice:
+6. Run the main script with an image of your choice:
 
-   (```bash)
+   ```bash
    python main.py --image PATH_TO_IMAGE.jpg
-   (```)
+   ```
 
 ## Sample Output
 
-The project's main script, `main.py`, takes an image as input, detects faces, and provides information about the gender and approximate age of each detected face. The result is displayed in a window showing the original image with annotations.
+The project\'s main script, `main.py`, takes an image as input, detects faces, and provides information about the gender and approximate age of each detected face. The result is displayed in a window showing the original image with annotations.
 
 ## Social Links
 
 Follow me for more inspiration:
 
-
-- <a href="https://www.sololearn.com/profile/26555651" target="_blank"><img src="https://blob.sololearn.com/avatars/sololearn.png" alt="Sololearn" width="18" height="18"> Follow me on Sololearn</a>
-- <a href="https://github.com/MAS-RA/paint-web-app" target="_blank"><img src="https://github.com/fluidicon.png" alt="GitHub" width="18" height="18"> Check out the project on GitHub</a>
-- <a href="https://www.instagram.com/alisaeed.thabt/" target="_blank"><img src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" alt="Instagram" width="18" height="18"> Follow me on Instagram</a>
-- <a href="https://www.buymeacoffee.com/AliSaeedThabt" target="_blank"><img src="https://image-link-to-coffee-icon" alt="Buy Me a Coffee" width="18" height="18"> Buy Me a Coffee</a>
-
+- [Follow me on Sololearn](https://www.sololearn.com/profile/26555651)
+- [Check out the project on GitHub](https://github.com/MAS-RA/paint-web-app)
+- [Follow me on Instagram](https://www.instagram.com/alisaeed.thabt/)
+- [Buy Me a Coffee](https://www.buymeacoffee.com/AliSaeedThabt)
 
 ## Demo
 
@@ -77,7 +115,7 @@ This project is licensed under the [Your License] License. See the [LICENSE](LIC
 
 ---
 
-For updates and announcements, follow me on Instagram [@Alisaeed.thabt](https://www.instagram.com/alisaeed.thabt/). 
+For updates and announcements, follow me on Instagram [@Alisaeed.thabt](https://www.instagram.com/alisaeed.thabt/).
 
-Let's make face detection smarter and more accurate with the power of AI! Your contributions are highly appreciated.
-EOT
+Let\'s make face detection smarter and more accurate with the power of AI! Your contributions are highly appreciated.
+```
